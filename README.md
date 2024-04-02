@@ -1,7 +1,11 @@
 1. Créer l'interface IDao avec une méthode getDate
+
+
  ![image](https://github.com/mehdihrm/demoInjectionDepP1/assets/83135160/1b2df084-b83e-4e22-9e69-8b676b50a1f4)
 
 2. Créer une implémentation de cette interface
+
+
 ![image](https://github.com/mehdihrm/demoInjectionDepP1/assets/83135160/ac442087-d74c-4863-8c6a-22be1fa5e18f)
 
 3.Créer l'interface IMetier avec une méthode calcul
